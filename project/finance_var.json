@@ -1,0 +1,36 @@
+{
+  "type": "finance",
+  "data": {
+    "requirement": {
+      "accountant": {
+        "lb_hours": 8
+      },
+      "financial_analyst": {
+        "lb_hours": 8
+      },
+      "payroll_specialist": {
+        "lb_hours": 4
+      }
+    },
+    "current": {
+      "accountant": {
+        "qty": {
+          "dgalType": "int?"
+        },
+        "hour_per_day": 8
+      },
+      "financial_analyst": {
+        "qty": {
+          "dgalType": "int?"
+        },
+        "hour_per_day": 8
+      },
+      "payroll_specialist": {
+        "qty": {
+          "dgalType": "int?"
+        },
+        "hour_per_day": 4
+      }
+    }
+  }
+}

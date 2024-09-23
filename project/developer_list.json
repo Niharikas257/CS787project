@@ -1,0 +1,163 @@
+{
+    "type": "engineering_team",
+    "data": {
+        "full_time": [
+            {
+                "name": "A",
+                "review": 9,
+                "experience": 5,
+                "loyalty": 3,
+                "expertise": 3,
+                "role": "web_developer"
+            },
+            {
+                "name": "B",
+                "review": 7,
+                "experience": 4,
+                "loyalty": 2,
+                "expertise": 5,
+                "role": "mobile_developer"
+            },
+            {
+                "name": "C",
+                "review": 8,
+                "experience": 3,
+                "loyalty": 4,
+                "expertise": 4,
+                "role": "system_engineer"
+            },
+            {
+                "name": "D",
+                "review": 6,
+                "experience": 5,
+                "loyalty": 3,
+                "expertise": 2,
+                "role": "web_developer"
+            },
+            {
+                "name": "E",
+                "review": 9,
+                "experience": 4,
+                "loyalty": 5,
+                "expertise": 3,
+                "role": "mobile_developer"
+            },
+            {
+                "name": "F",
+                "review": 7,
+                "experience": 3,
+                "loyalty": 2,
+                "expertise": 4,
+                "role": "system_engineer"
+            },
+            {
+                "name": "G",
+                "review": 8,
+                "experience": 5,
+                "loyalty": 3,
+                "expertise": 4,
+                "role": "web_developer"
+            },
+            {
+                "name": "H",
+                "review": 6,
+                "experience": 4,
+                "loyalty": 5,
+                "expertise": 2,
+                "role": "mobile_developer"
+            },
+            {
+                "name": "I",
+                "review": 5,
+                "experience": 3,
+                "loyalty": 4,
+                "expertise": 3,
+                "role": "system_engineer"
+            },
+            {
+                "name": "J",
+                "review": 7,
+                "experience": 5,
+                "loyalty": 3,
+                "expertise": 4,
+                "role": "web_developer"
+            }
+        ],
+        "part_time": [
+            {
+                "name": "K",
+                "review": 8,
+                "experience": 4,
+                "loyalty": 3,
+                "expertise": 5,
+                "role": "mobile_developer"
+            },
+            {
+                "name": "L",
+                "review": 7,
+                "experience": 3,
+                "loyalty": 4,
+                "expertise": 4,
+                "role": "system_engineer"
+            },
+            {
+                "name": "M",
+                "review": 9,
+                "experience": 5,
+                "loyalty": 3,
+                "expertise": 2,
+                "role": "web_developer"
+            },
+            {
+                "name": "N",
+                "review": 6,
+                "experience": 4,
+                "loyalty": 5,
+                "expertise": 3,
+                "role": "mobile_developer"
+            },
+            {
+                "name": "O",
+                "review": 5,
+                "experience": 3,
+                "loyalty": 2,
+                "expertise": 4,
+                "role": "system_engineer"
+            },
+            {
+                "name": "P",
+                "review": 7,
+                "experience": 5,
+                "loyalty": 3,
+                "expertise": 4,
+                "role": "web_developer"
+            }
+        ],
+        "contract": [
+            {
+                "name": "Q",
+                "review": 9,
+                "experience": 4,
+                "loyalty": 3,
+                "expertise": 5,
+                "role": "mobile_developer"
+            },
+            {
+                "name": "R",
+                "review": 7,
+                "experience": 3,
+                "loyalty": 4,
+                "expertise": 4,
+                "role": "system_engineer"
+            },
+            {
+                "name": "S",
+                "review": 6,
+                "experience": 5,
+                "loyalty": 3,
+                "expertise": 2,
+                "role": "web_developer"
+            }
+        ]
+    }
+}

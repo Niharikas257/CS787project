@@ -1,0 +1,36 @@
+{
+    "type": "developers",
+    "data": {
+        "requirement": {
+            "full_time": {
+                "lb_hours": 8
+            },
+            "part_time": {
+                "lb_hours": 4
+            },
+            "contract": {
+                "lb_hours": 7
+            }
+        },
+        "current": {
+            "full_time": {
+                "qty": {
+                    "dgalType": "int?"
+                },
+                "hour_per_day": 8
+            },
+            "part_time": {
+                "qty": {
+                    "dgalType": "int?"
+                },
+                "hour_per_day": 6
+            },
+            "contract": {
+                "qty": {
+                    "dgalType": "int?"
+                },
+                "hour_per_day": 7
+            }
+        }
+    }
+}

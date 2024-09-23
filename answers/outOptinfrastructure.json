@@ -1,0 +1,1 @@
+{"type": "infrastructure", "total_cost": 4930, "constraint": true, "data": {"full_time": {"cost": 3400, "qty": 8}, "part_time": {"cost": 765, "qty": 4}, "contract": {"cost": 765, "qty": 4}}}

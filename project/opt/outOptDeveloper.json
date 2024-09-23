@@ -1,0 +1,19 @@
+{
+    "type": "developers",
+    "cost": 17550.0,
+    "constraint": true,
+    "data": {
+        "full_time": {
+            "cost": 8100.0,
+            "qty": 1
+        },
+        "part_time": {
+            "cost": 4050.0,
+            "qty": 1
+        },
+        "contract": {
+            "cost": 5400.0,
+            "qty": 1
+        }
+    }
+}

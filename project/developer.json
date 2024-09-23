@@ -1,0 +1,30 @@
+{
+    "type": "engineer",
+    "data": {
+        "requirement": {
+            "full_time": {
+                "lb_hours": 8
+            },
+            "part_time": {
+                "lb_hours": 4
+            },
+            "contract": {
+                "lb_hours": 6
+            }
+        },
+        "current": {
+            "full_time": {
+                "qty": 10,
+                "hour_per_day": 8
+            },
+            "part_time": {
+                "qty": 6,
+                "hour_per_day": 8
+            },
+            "contract": {
+                "qty": 3,
+                "hour_per_day": 7
+            }
+        }
+    }
+}

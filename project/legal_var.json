@@ -1,0 +1,37 @@
+{
+    "type": "legal",
+    "data": {
+      "requirement": {
+        "lawyer": {
+          "lb_hours": 8
+        },
+        "paralegal": {
+          "lb_hours": 8
+        },
+        "legal_assistant": {
+          "lb_hours": 4
+        }
+      },
+      "current": {
+        "lawyer": {
+          "qty": {
+            "dgalType": "int?"
+          },
+          "hour_per_day": 8
+        },
+        "paralegal": {
+          "qty": {
+            "dgalType": "int?"
+          },
+          "hour_per_day": 8
+        },
+        "legal_assistant": {
+          "qty": {
+            "dgalType": "int?"
+          },
+          "hour_per_day": 4
+        }
+      }
+    }
+  }
+  

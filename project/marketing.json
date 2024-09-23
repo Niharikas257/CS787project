@@ -1,0 +1,30 @@
+{
+    "type": "marketing",
+    "data": {
+        "requirement": {
+            "full_time": {
+                "lb_hours": 8
+            },
+            "part_time": {
+                "lb_hours": 5
+            },
+            "contract": {
+                "lb_hours": 6
+            }
+        },
+        "current": {
+            "full_time": {
+                "qty": 9,
+                "hour_per_day": 8
+            },
+            "part_time": {
+                "qty": 6,
+                "hour_per_day": 6
+            },
+            "contract": {
+                "qty": 4,
+                "hour_per_day": 7
+            }
+        }
+    }
+}

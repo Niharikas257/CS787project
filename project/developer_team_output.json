@@ -1,0 +1,188 @@
+{
+    "full_time": [
+        {
+            "name": "A",
+            "weighted_average": 7.7
+        },
+        {
+            "name": "B",
+            "weighted_average": 8.3
+        },
+        {
+            "name": "D",
+            "weighted_average": 6.1
+        },
+        {
+            "name": "E",
+            "weighted_average": 7.2
+        },
+        {
+            "name": "F",
+            "weighted_average": 5.15
+        },
+        {
+            "name": "H",
+            "weighted_average": 6.55
+        },
+        {
+            "name": "O",
+            "weighted_average": 6.35
+        },
+        {
+            "name": "Frank Jones",
+            "weighted_average": 5.4
+        },
+        {
+            "name": "Grace Miller",
+            "weighted_average": 6.4
+        },
+        {
+            "name": "Henry Taylor",
+            "weighted_average": 4.65
+        },
+        {
+            "name": "Isabel Anderson",
+            "weighted_average": 6.75
+        },
+        {
+            "name": "Jack Thomas",
+            "weighted_average": 6.1
+        },
+        {
+            "name": "Kathy White",
+            "weighted_average": 6.65
+        },
+        {
+            "name": "Leo Harris",
+            "weighted_average": 4.95
+        },
+        {
+            "name": "Mia Martin",
+            "weighted_average": 6.35
+        },
+        {
+            "name": "Nick Clark",
+            "weighted_average": 6.35
+        },
+        {
+            "name": "Olivia Lewis",
+            "weighted_average": 6.1
+        },
+        {
+            "name": "Peter Young",
+            "weighted_average": 5.85
+        },
+        {
+            "name": "Quinn King",
+            "weighted_average": 5.75
+        },
+        {
+            "name": "Rachel Scott",
+            "weighted_average": 5.25
+        },
+        {
+            "name": "Sam Evans",
+            "weighted_average": 6.3
+        },
+        {
+            "name": "Tina Moore",
+            "weighted_average": 6.15
+        },
+        {
+            "name": "Ulysses Hall",
+            "weighted_average": 5.95
+        }
+    ],
+    "part_time": [
+        {
+            "name": "Michael Johnson",
+            "weighted_average": 4.95
+        },
+        {
+            "name": "Nancy Lopez",
+            "weighted_average": 4.3
+        },
+        {
+            "name": "Oscar Hernandez",
+            "weighted_average": 4.85
+        },
+        {
+            "name": "Patty Lopez",
+            "weighted_average": 4.0
+        },
+        {
+            "name": "Quentin Adams",
+            "weighted_average": 3.5
+        },
+        {
+            "name": "Rita Turner",
+            "weighted_average": 3.15
+        },
+        {
+            "name": "Steve Phillips",
+            "weighted_average": 2.35
+        },
+        {
+            "name": "Terry Nelson",
+            "weighted_average": 4.15
+        },
+        {
+            "name": "Uma Ford",
+            "weighted_average": 3.3
+        },
+        {
+            "name": "Vince Carter",
+            "weighted_average": 2.95
+        },
+        {
+            "name": "Wendy Mitchell",
+            "weighted_average": 2.55
+        }
+    ],
+    "contract": [
+        {
+            "name": "Emily Roberts",
+            "weighted_average": 3.15
+        },
+        {
+            "name": "Yolanda Garcia",
+            "weighted_average": 2.6
+        },
+        {
+            "name": "Zachary Lee",
+            "weighted_average": 2.9
+        },
+        {
+            "name": "Abigail Walker",
+            "weighted_average": 2.75
+        },
+        {
+            "name": "Benjamin Robinson",
+            "weighted_average": 1.95
+        },
+        {
+            "name": "Cynthia Rodriguez",
+            "weighted_average": 3.05
+        },
+        {
+            "name": "Dexter Jordan",
+            "weighted_average": 3.15
+        },
+        {
+            "name": "Erin King",
+            "weighted_average": 2.55
+        },
+        {
+            "name": "Felix Wright",
+            "weighted_average": 2.85
+        },
+        {
+            "name": "Gina Lopez",
+            "weighted_average": 1.95
+        },
+        {
+            "name": "Harvey Perez",
+            "weighted_average": 2.7
+        }
+    ]
+}

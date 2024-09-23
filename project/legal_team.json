@@ -1,0 +1,467 @@
+{
+  "type": "legal_team",
+  "weights": {
+    "review": 0.25,
+    "experience": 0.20,
+    "loyalty": 0.20,
+    "expertise": 0.20
+  },
+  "data": {
+    "full_time": [
+      {
+        "name": "John Doe",
+        "type": "full_time",
+        "role": "lawyer",
+        "review": 9,
+        "experience": 5,
+        "loyalty": 3,
+        "expertise": 3,
+        "performance_score": 6.7
+      },
+      {
+        "name": "Jane Smith",
+        "type": "full_time",
+        "role": "paralegal",
+        "review": 8,
+        "experience": 4,
+        "loyalty": 4,
+        "expertise": 2,
+        "performance_score": 6.3
+      },
+      {
+        "name": "Alice Johnson",
+        "type": "full_time",
+        "role": "legal_assistant",
+        "review": 7,
+        "experience": 3.5,
+        "loyalty": 5,
+        "expertise": 1,
+        "performance_score": 5.1
+      },
+      {
+        "name": "Bob Williams",
+        "type": "full_time",
+        "role": "lawyer",
+        "review": 6,
+        "experience": 2.2,
+        "loyalty": 6,
+        "expertise": 3,
+        "performance_score": 5.3
+      },
+      {
+        "name": "Carol Davis",
+        "type": "full_time",
+        "role": "paralegal",
+        "review": 5,
+        "experience": 7.8,
+        "loyalty": 2,
+        "expertise": 2,
+        "performance_score": 5.15
+      },
+      {
+        "name": "David Wilson",
+        "type": "full_time",
+        "role": "legal_assistant",
+        "review": 9,
+        "experience": 4.5,
+        "loyalty": 7,
+        "expertise": 1,
+        "performance_score": 6.55
+      },
+      {
+        "name": "Eva Brown",
+        "type": "full_time",
+        "role": "lawyer",
+        "review": 8,
+        "experience": 3.3,
+        "loyalty": 8,
+        "expertise": 3,
+        "performance_score": 6.35
+      },
+      {
+        "name": "Frank Jones",
+        "type": "full_time",
+        "role": "paralegal",
+        "review": 7,
+        "experience": 6.1,
+        "loyalty": 3,
+        "expertise": 2,
+        "performance_score": 5.4
+      },
+      {
+        "name": "Grace Miller",
+        "type": "full_time",
+        "role": "legal_assistant",
+        "review": 6,
+        "experience": 5.4,
+        "loyalty": 9,
+        "expertise": 1,
+        "performance_score": 6.4
+      },
+      {
+        "name": "Henry Taylor",
+        "type": "full_time",
+        "role": "lawyer",
+        "review": 5,
+        "experience": 2.9,
+        "loyalty": 4,
+        "expertise": 3,
+        "performance_score": 4.65
+      },
+      {
+        "name": "Isabel Anderson",
+        "type": "full_time",
+        "role": "paralegal",
+        "review": 9,
+        "experience": 4.7,
+        "loyalty": 5,
+        "expertise": 2,
+        "performance_score": 6.75
+      },
+      {
+        "name": "Jack Thomas",
+        "type": "full_time",
+        "role": "legal_assistant",
+        "review": 8,
+        "experience": 3.6,
+        "loyalty": 6,
+        "expertise": 1,
+        "performance_score": 6.1
+      },
+      {
+        "name": "Kathy White",
+        "type": "full_time",
+        "role": "lawyer",
+        "review": 7,
+        "experience": 5.5,
+        "loyalty": 7,
+        "expertise": 3,
+        "performance_score": 6.65
+      },
+      {
+        "name": "Leo Harris",
+        "type": "full_time",
+        "role": "paralegal",
+        "review": 6,
+        "experience": 1.8,
+        "loyalty": 8,
+        "expertise": 2,
+        "performance_score": 4.95
+      },
+      {
+        "name": "Mia Martin",
+        "type": "full_time",
+        "role": "legal_assistant",
+        "review": 5,
+        "experience": 7.2,
+        "loyalty": 9,
+        "expertise": 1,
+        "performance_score": 6.35
+      },
+      {
+        "name": "Nick Clark",
+        "type": "full_time",
+        "role": "lawyer",
+        "review": 9,
+        "experience": 4.0,
+        "loyalty": 5,
+        "expertise": 3,
+        "performance_score": 6.35
+      },
+      {
+        "name": "Olivia Lewis",
+        "type": "full_time",
+        "role": "paralegal",
+        "review": 8,
+        "experience": 3.1,
+        "loyalty": 4,
+        "expertise": 2,
+        "performance_score": 6.1
+      },
+      {
+        "name": "Peter Young",
+        "type": "full_time",
+        "role": "legal_assistant",
+        "review": 7,
+        "experience": 6.6,
+        "loyalty": 3,
+        "expertise": 1,
+        "performance_score": 5.85
+      },
+      {
+        "name": "Quinn King",
+        "type": "full_time",
+        "role": "lawyer",
+        "review": 6,
+        "experience": 5.9,
+        "loyalty": 2,
+        "expertise": 3,
+        "performance_score": 5.75
+      },
+      {
+        "name": "Rachel Scott",
+        "type": "full_time",
+        "role": "paralegal",
+        "review": 5,
+        "experience": 8.3,
+        "loyalty": 1,
+        "expertise": 2,
+        "performance_score": 5.25
+      },
+      {
+        "name": "Sam Evans",
+        "type": "full_time",
+        "role": "legal_assistant",
+        "review": 9,
+        "experience": 4.4,
+        "loyalty": 6,
+        "expertise": 1,
+        "performance_score": 6.3
+      },
+      {
+        "name": "Tina Moore",
+        "type": "full_time",
+        "role": "lawyer",
+        "review": 8,
+        "experience": 3.7,
+        "loyalty": 7,
+        "expertise": 3,
+        "performance_score": 6.15
+      },
+      {
+        "name": "Ulysses Hall",
+        "type": "full_time",
+        "role": "paralegal",
+        "review": 7,
+        "experience": 2.5,
+        "loyalty": 8,
+        "expertise": 2,
+        "performance_score": 5.95
+      }
+    ],
+    "part_time": [
+      {
+        "name": "Michael Johnson",
+        "type": "part_time",
+        "role": "paralegal",
+        "review": 7,
+        "experience": 2,
+        "loyalty": 2,
+        "expertise": 1,
+        "performance_score": 4.95
+      },
+      {
+        "name": "Nancy Lopez",
+        "type": "part_time",
+        "role": "lawyer",
+        "review": 6,
+        "experience": 1.2,
+        "loyalty": 3,
+        "expertise": 2,
+        "performance_score": 4.3
+      },
+      {
+        "name": "Oscar Hernandez",
+        "type": "part_time",
+        "role": "legal_assistant",
+        "review": 5,
+        "experience": 4.0,
+        "loyalty": 4,
+        "expertise": 3,
+        "performance_score": 4.85
+      },
+      {
+        "name": "Patty Lopez",
+        "type": "part_time",
+        "role": "paralegal",
+        "review": 4,
+        "experience": 3.5,
+        "loyalty": 5,
+        "expertise": 1,
+        "performance_score": 4.0
+      },
+      {
+        "name": "Quentin Adams",
+        "type": "part_time",
+        "role": "lawyer",
+        "review": 3,
+        "experience": 2.7,
+        "loyalty": 6,
+        "expertise": 2,
+        "performance_score": 3.5
+      },
+      {
+        "name": "Rita Turner",
+        "type": "part_time",
+        "role": "legal_assistant",
+        "review": 2,
+        "experience": 1.8,
+        "loyalty": 7,
+        "expertise": 3,
+        "performance_score": 3.15
+      },
+      {
+        "name": "Steve Phillips",
+        "type": "part_time",
+        "role": "paralegal",
+        "review": 1,
+        "experience": 0.9,
+        "loyalty": 8,
+        "expertise": 1,
+        "performance_score": 2.35
+      },
+      {
+        "name": "Terry Nelson",
+        "type": "part_time",
+        "role": "lawyer",
+        "review": 6,
+        "experience": 4.3,
+        "loyalty": 2,
+        "expertise": 2,
+        "performance_score": 4.15
+      },
+      {
+        "name": "Uma Ford",
+        "type": "part_time",
+        "role": "legal_assistant",
+        "review": 5,
+        "experience": 3.1,
+        "loyalty": 1,
+        "expertise": 3,
+        "performance_score": 3.3
+      },
+      {
+        "name": "Vince Carter",
+        "type": "part_time",
+        "role": "paralegal",
+        "review": 4,
+        "experience": 2.4,
+        "loyalty": 3,
+        "expertise": 1,
+        "performance_score": 2.95
+      },
+      {
+        "name": "Wendy Mitchell",
+        "type": "part_time",
+        "role": "lawyer",
+        "review": 3,
+        "experience": 1.5,
+        "loyalty": 4,
+        "expertise": 2,
+        "performance_score": 2.55
+      }
+    ],
+    "contract": [
+      {
+        "name": "Emily Roberts",
+        "type": "contract",
+        "role": "legal_assistant",
+        "review": 6,
+        "experience": 1,
+        "loyalty": 1,
+        "expertise": 1,
+        "performance_score": 3.15
+      },
+      {
+        "name": "Yolanda Garcia",
+        "type": "contract",
+        "role": "paralegal",
+        "review": 5,
+        "experience": 0.8,
+        "loyalty": 2,
+        "expertise": 2,
+        "performance_score": 2.6
+      },
+      {
+        "name": "Zachary Lee",
+        "type": "contract",
+        "role": "lawyer",
+        "review": 4,
+        "experience": 2.2,
+        "loyalty": 3,
+        "expertise": 3,
+        "performance_score": 2.9
+      },
+      {
+        "name": "Abigail Walker",
+        "type": "contract",
+        "role": "paralegal",
+        "review": 3,
+        "experience": 1.3,
+        "loyalty": 4,
+        "expertise": 1,
+        "performance_score": 2.75
+      },
+      {
+        "name": "Benjamin Robinson",
+        "type": "contract",
+        "role": "lawyer",
+        "review": 2,
+        "experience": 0.5,
+        "loyalty": 5,
+        "expertise": 2,
+        "performance_score": 1.95
+      },
+      {
+        "name": "Cynthia Rodriguez",
+        "type": "contract",
+        "role": "legal_assistant",
+        "review": 1,
+        "experience": 4.5,
+        "loyalty": 6,
+        "expertise": 3,
+        "performance_score": 3.05
+      },
+      {
+        "name": "Dexter Jordan",
+        "type": "contract",
+        "role": "paralegal",
+        "review": 6,
+        "experience": 3.2,
+        "loyalty": 1,
+        "expertise": 1,
+        "performance_score": 3.15
+      },
+      {
+        "name": "Erin King",
+        "type": "contract",
+        "role": "lawyer",
+        "review": 5,
+        "experience": 2.6,
+        "loyalty": 2,
+        "expertise": 2,
+        "performance_score": 2.55
+      },
+      {
+        "name": "Felix Wright",
+        "type": "contract",
+        "role": "legal assistant",
+        "review": 4,
+        "experience": 1.9,
+        "loyalty": 3,
+        "expertise": 3,
+        "performance_score": 2.85
+      },
+      {
+        "name": "Gina Lopez",
+        "type": "contract",
+        "role": "paralegal",
+        "review": 3,
+        "experience": 0.4,
+        "loyalty": 4,
+        "expertise": 1,
+        "performance_score": 1.95
+      },
+      {
+        "name": "Harvey Perez",
+        "type": "contract",
+        "role": "lawyer",
+        "review": 2,
+        "experience": 3.8,
+        "loyalty": 5,
+        "expertise": 2,
+        "performance_score": 2.7
+      }
+    ]
+  }
+}

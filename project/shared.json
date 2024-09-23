@@ -1,0 +1,66 @@
+{
+    "type": "shared",
+    "entities": {
+        "engineer": {
+            "full_time": {
+                "cost_per_hour": 50
+            },
+            "part_time": {
+                "cost_per_hour": 45
+            },
+            "contract": {
+                "cost_per_hour": 45
+            }
+        },
+        "legal": {
+            "full_time": {
+                "cost_per_hour": 40
+            },
+            "part_time": {
+                "cost_per_hour": 30
+            },
+            "contract": {
+                "cost_per_hour": 25
+            }
+        },
+        "infrastructure": {
+            "full_time": {
+                "cost_per_hour": 50
+            },
+            "part_time": {
+                "cost_per_hour": 45
+            },
+            "contract": {
+                "cost_per_hour": 45
+            }
+        },
+        "finance": {
+            "full_time": {
+                "cost_per_hour": 50
+            },
+            "part_time": {
+                "cost_per_hour": 45
+            },
+            "contract": {
+                "cost_per_hour": 45
+            }
+        },
+        "marketing": {
+            "full_time": {
+                "cost_per_hour": 50
+            },
+            "part_time": {
+                "cost_per_hour": 45
+            },
+            "contract": {
+                "cost_per_hour": 45
+            }
+        },
+        "weights": {
+            "review": 0.40,
+            "experience": 0.20,
+            "loyalty": 0.20,
+            "expertise": 0.20
+        }
+    }
+}

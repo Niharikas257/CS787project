@@ -1,0 +1,105 @@
+{
+    "employees": [
+      {
+        "name": "John Doe",
+        "employment_type": "full_time",
+        "performance_index": 8.05
+      },
+      {
+        "name": "Jane Smith",
+        "employment_type": "full_time",
+        "performance_index": 8.65
+      },
+      {
+        "name": "Alex Johnson",
+        "employment_type": "part_time",
+        "performance_index": 6.8
+      },
+      {
+        "name": "Emily Brown",
+        "employment_type": "contract",
+        "performance_index": 8.3
+      },
+      {
+        "name": "Michael Clark",
+        "employment_type": "full_time",
+        "performance_index": 7.55
+      },
+      {
+        "name": "Sarah Evans",
+        "employment_type": "full_time",
+        "performance_index": 8.05
+      },
+      {
+        "name": "Daniel Garcia",
+        "employment_type": "part_time",
+        "performance_index": 8.2
+      },
+      {
+        "name": "Olivia Martinez",
+        "employment_type": "contract",
+        "performance_index": 8.55
+      },
+      {
+        "name": "William Anderson",
+        "employment_type": "full_time",
+        "performance_index": 8.05
+      },
+      {
+        "name": "Sophia Hernandez",
+        "employment_type": "full_time",
+        "performance_index": 7.45
+      },
+      {
+        "name": "James Taylor",
+        "employment_type": "part_time",
+        "performance_index": 8.1
+      },
+      {
+        "name": "Emma White",
+        "employment_type": "contract",
+        "performance_index": 8.3
+      },
+      {
+        "name": "Liam Brown",
+        "employment_type": "full_time",
+        "performance_index": 7.55
+      },
+      {
+        "name": "Ava Lopez",
+        "employment_type": "full_time",
+        "performance_index": 8.05
+      },
+      {
+        "name": "Noah Miller",
+        "employment_type": "part_time",
+        "performance_index": 8.2
+      },
+      {
+        "name": "Isabella Lee",
+        "employment_type": "contract",
+        "performance_index": 8.55
+      },
+      {
+        "name": "Mason Martinez",
+        "employment_type": "full_time",
+        "performance_index": 8.05
+      },
+      {
+        "name": "Charlotte Johnson",
+        "employment_type": "full_time",
+        "performance_index": 7.45
+      },
+      {
+        "name": "Ethan Taylor",
+        "employment_type": "part_time",
+        "performance_index": 8.1
+      },
+      {
+        "name": "Amelia Brown",
+        "employment_type": "contract",
+        "performance_index": 8.3
+      }
+    ]
+  }
+  

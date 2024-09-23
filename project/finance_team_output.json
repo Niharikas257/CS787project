@@ -1,0 +1,233 @@
+{
+  "full_time": [
+    {
+      "name": "Evelyn",
+      "type": "full_time",
+      "performance_score": 5.04
+    },
+    {
+      "name": "Harper",
+      "type": "full_time",
+      "performance_score": 5.58
+    },
+    {
+      "name": "Charlotte",
+      "type": "full_time",
+      "performance_score": 3.15
+    },
+    {
+      "name": "Alexander",
+      "type": "full_time",
+      "performance_score": 2.98
+    },
+    {
+      "name": "Charlotte",
+      "type": "full_time",
+      "performance_score": 5.7
+    },
+    {
+      "name": "Liam",
+      "type": "full_time",
+      "performance_score": 7.39
+    },
+    {
+      "name": "James",
+      "type": "full_time",
+      "performance_score": 4.46
+    },
+    {
+      "name": "Isabella",
+      "type": "full_time",
+      "performance_score": 4.51
+    },
+    {
+      "name": "James",
+      "type": "full_time",
+      "performance_score": 6.01
+    },
+    {
+      "name": "Alexander",
+      "type": "full_time",
+      "performance_score": 5.38
+    },
+    {
+      "name": "Ethan",
+      "type": "full_time",
+      "performance_score": 5.59
+    },
+    {
+      "name": "James",
+      "type": "full_time",
+      "performance_score": 6.47
+    },
+    {
+      "name": "Henry",
+      "type": "full_time",
+      "performance_score": 6.0
+    },
+    {
+      "name": "Noah",
+      "type": "full_time",
+      "performance_score": 2.34
+    },
+    {
+      "name": "Liam",
+      "type": "full_time",
+      "performance_score": 5.87
+    },
+    {
+      "name": "James",
+      "type": "full_time",
+      "performance_score": 4.88
+    },
+    {
+      "name": "Ethan",
+      "type": "full_time",
+      "performance_score": 5.02
+    },
+    {
+      "name": "Evelyn",
+      "type": "full_time",
+      "performance_score": 4.46
+    },
+    {
+      "name": "Evelyn",
+      "type": "full_time",
+      "performance_score": 6.09
+    },
+    {
+      "name": "Lucas",
+      "type": "full_time",
+      "performance_score": 5.87
+    },
+    {
+      "name": "Harper",
+      "type": "full_time",
+      "performance_score": 4.13
+    },
+    {
+      "name": "Isabella",
+      "type": "full_time",
+      "performance_score": 5.21
+    },
+    {
+      "name": "Charlotte",
+      "type": "full_time",
+      "performance_score": 4.95
+    }
+  ],
+  "part_time": [
+    {
+      "name": "Mia",
+      "type": "part_time",
+      "performance_score": 4.58
+    },
+    {
+      "name": "Liam",
+      "type": "part_time",
+      "performance_score": 4.61
+    },
+    {
+      "name": "Liam",
+      "type": "part_time",
+      "performance_score": 4.81
+    },
+    {
+      "name": "Mason",
+      "type": "part_time",
+      "performance_score": 4.33
+    },
+    {
+      "name": "William",
+      "type": "part_time",
+      "performance_score": 3.19
+    },
+    {
+      "name": "Liam",
+      "type": "part_time",
+      "performance_score": 3.48
+    },
+    {
+      "name": "William",
+      "type": "part_time",
+      "performance_score": 3.42
+    },
+    {
+      "name": "Ava",
+      "type": "part_time",
+      "performance_score": 4.46
+    },
+    {
+      "name": "James",
+      "type": "part_time",
+      "performance_score": 5.32
+    },
+    {
+      "name": "Logan",
+      "type": "part_time",
+      "performance_score": 6.96
+    },
+    {
+      "name": "Liam",
+      "type": "part_time",
+      "performance_score": 4.46
+    }
+  ],
+  "contract": [
+    {
+      "name": "Liam",
+      "type": "contract",
+      "performance_score": 5.99
+    },
+    {
+      "name": "Charlotte",
+      "type": "contract",
+      "performance_score": 5.92
+    },
+    {
+      "name": "Olivia",
+      "type": "contract",
+      "performance_score": 6.61
+    },
+    {
+      "name": "Alexander",
+      "type": "contract",
+      "performance_score": 3.79
+    },
+    {
+      "name": "Noah",
+      "type": "contract",
+      "performance_score": 4.84
+    },
+    {
+      "name": "Alexander",
+      "type": "contract",
+      "performance_score": 3.8
+    },
+    {
+      "name": "Alexander",
+      "type": "contract",
+      "performance_score": 7.49
+    },
+    {
+      "name": "Ava",
+      "type": "contract",
+      "performance_score": 4.57
+    },
+    {
+      "name": "Ava",
+      "type": "contract",
+      "performance_score": 5.36
+    },
+    {
+      "name": "Logan",
+      "type": "contract",
+      "performance_score": 5.87
+    },
+    {
+      "name": "Amelia",
+      "type": "contract",
+      "performance_score": 4.55
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+    "type": "legal",
+    "data": {
+      "requirement": {
+        "full_time": {
+          "lb_hours": 8
+        },
+        "part_time": {
+          "lb_hours": 8
+        },
+        "contract": {
+          "lb_hours": 4
+        }
+      },
+      "current": {
+        "full_time": {
+          "qty": 23,  
+          "hour_per_day": 8
+        },
+        "part_time": {
+          "qty": 11,  
+          "hour_per_day": 8
+        },
+        "contract": {
+          "qty": 11,  
+          "hour_per_day": 6
+        }
+      }
+    }
+  }
+  

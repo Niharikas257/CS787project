@@ -1,0 +1,1 @@
+{"type": "engineer", "cost": 7105, "constraint": true, "data": {"full_time": {"qty": 10, "cost": 4000}, "part_time": {"qty": 6, "cost": 2160}, "contract": {"qty": 3, "cost": 945}}}

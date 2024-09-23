@@ -1,0 +1,182 @@
+{
+    "type": "marketing",
+    "data": {
+        "full_time": [
+            {
+                "name": "MAA",
+                "role": "Public Relations Manager",
+                "review": 8,
+                "experience": 6.5,
+                "loyalty": 9,
+                "expertise": 1,
+                "performance score": 6.5
+            },
+            {
+                "name": "MAB",
+                "role": "Public Relations Manager",
+                "review": 9,
+                "experience": 4.5,
+                "loyalty": 9,
+                "expertise": 4,
+                "performance score": 7.1
+            },
+            {
+                "name": "MAC",
+                "role": "Marketing Manager",
+                "review": 8,
+                "experience": 5.0,
+                "loyalty": 9,
+                "expertise": 2,
+                "performance score": 6.4
+            },
+            {
+                "name": "MAD",
+                "role": "Public Relations Manager",
+                "review": 8,
+                "experience": 4.5,
+                "loyalty": 9,
+                "expertise": 3,
+                "performance score": 6.5
+            },
+            {
+                "name": "MAE",
+                "role": "Marketing Manager",
+                "review": 8,
+                "experience": 6.0,
+                "loyalty": 9,
+                "expertise": 3,
+                "performance score": 6.8
+            },
+            {
+                "name": "MAF",
+                "role": "Public Relations Manager",
+                "review": 9,
+                "experience": 4.0,
+                "loyalty": 9,
+                "expertise": 2,
+                "performance score": 6.6
+            },
+            {
+                "name": "MAG",
+                "role": "Market Research Analyst",
+                "review": 8,
+                "experience": 6.5,
+                "loyalty": 9,
+                "expertise": 4,
+                "performance score": 7.1
+            },
+            {
+                "name": "MAH",
+                "role": "Market Research Analyst",
+                "review": 8,
+                "experience": 6.0,
+                "loyalty": 9,
+                "expertise": 2,
+                "performance score": 6.6
+            },
+            {
+                "name": "MAI",
+                "role": "Market Research Analyst",
+                "review": 9,
+                "experience": 7.0,
+                "loyalty": 9,
+                "expertise": 4,
+                "performance score": 7.6
+            }
+        ],
+        "part_time": [
+            {
+                "name": "MAJ",
+                "role": "Public Relations Manager",
+                "review": 5,
+                "experience": 2.5,
+                "loyalty": 6,
+                "expertise": 2,
+                "performance score": 4.1
+            },
+            {
+                "name": "MAK",
+                "role": "Marketing Manager",
+                "review": 6,
+                "experience": 3.0,
+                "loyalty": 5,
+                "expertise": 1,
+                "performance score": 4.2
+            },
+            {
+                "name": "MAL",
+                "role": "Public Relations Manager",
+                "review": 5,
+                "experience": 2.5,
+                "loyalty": 6,
+                "expertise": 3,
+                "performance score": 4.3
+            },
+            {
+                "name": "MAM",
+                "role": "Public Relations Manager",
+                "review": 4,
+                "experience": 2.0,
+                "loyalty": 6,
+                "expertise": 1,
+                "performance score": 3.4
+            },
+            {
+                "name": "MAN",
+                "role": "Market Research Analyst",
+                "review": 5,
+                "experience": 3.5,
+                "loyalty": 5,
+                "expertise": 2,
+                "performance score": 4.1
+            },
+            {
+                "name": "MAO",
+                "role": "Digital Marketing Expert",
+                "review": 6,
+                "experience": 3.0,
+                "loyalty": 5,
+                "expertise": 3,
+                "performance score": 4.6
+            }
+        ],
+        "contract": [
+            {
+                "name": "MAP",
+                "role": "Public Relations Manager",
+                "review": 6,
+                "experience": 2.5,
+                "loyalty": 5,
+                "expertise": 2,
+                "performance score": 4.3
+            },
+            {
+                "name": "MAQ",
+                "role": "Digital Marketing Expert",
+                "review": 6,
+                "experience": 2.0,
+                "loyalty": 4,
+                "expertise": 4,
+                "performance score": 4.4
+            },
+            {
+                "name": "MAR",
+                "role": "Digital Marketing Expert",
+                "review": 4,
+                "experience": 2.0,
+                "loyalty": 2,
+                "expertise": 1,
+                "performance score": 2.6
+            },
+            {
+                "name": "MAS",
+                "role": "Public Relations Manager",
+                "review": 4,
+                "experience": 1.5,
+                "loyalty": 4,
+                "expertise": 2,
+                "performance score": 3.1
+            }
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+  "full_time": [
+    {"name": "John Doe", "type": "full_time", "performance_score": 6.7},
+    {"name": "Jane Smith", "type": "full_time", "performance_score": 6.3},
+    {"name": "Alice Johnson", "type": "full_time", "performance_score": 5.1},
+    {"name": "Bob Williams", "type": "full_time", "performance_score": 5.3},
+    {"name": "Carol Davis", "type": "full_time", "performance_score": 5.15},
+    {"name": "David Wilson", "type": "full_time", "performance_score": 6.55},
+    {"name": "Eva Brown", "type": "full_time", "performance_score": 6.35},
+    {"name": "Frank Jones", "type": "full_time", "performance_score": 5.4},
+    {"name": "Grace Miller", "type": "full_time", "performance_score": 6.4},
+    {"name": "Henry Taylor", "type": "full_time", "performance_score": 4.65},
+    {"name": "Isabel Anderson", "type": "full_time", "performance_score": 6.75},
+    {"name": "Jack Thomas", "type": "full_time", "performance_score": 6.1},
+    {"name": "Kathy White", "type": "full_time", "performance_score": 6.65},
+    {"name": "Leo Harris", "type": "full_time", "performance_score": 4.95},
+    {"name": "Mia Martin", "type": "full_time", "performance_score": 6.35},
+    {"name": "Nick Clark", "type": "full_time", "performance_score": 6.35},
+    {"name": "Olivia Lewis", "type": "full_time", "performance_score": 6.1},
+    {"name": "Peter Young", "type": "full_time", "performance_score": 5.85},
+    {"name": "Quinn King", "type": "full_time", "performance_score": 5.75},
+    {"name": "Rachel Scott", "type": "full_time", "performance_score": 5.25},
+    {"name": "Sam Evans", "type": "full_time", "performance_score": 6.3},
+    {"name": "Tina Moore", "type": "full_time", "performance_score": 6.15},
+    {"name": "Ulysses Hall", "type": "full_time", "performance_score": 5.95}
+  ],
+  "part_time": [
+    {"name": "Michael Johnson", "type": "part_time", "performance_score": 4.95},
+    {"name": "Nancy Lopez", "type": "part_time", "performance_score": 4.3},
+    {"name": "Oscar Hernandez", "type": "part_time", "performance_score": 4.85},
+    {"name": "Patty Lopez", "type": "part_time", "performance_score": 4.0},
+    {"name": "Quentin Adams", "type": "part_time", "performance_score": 3.5},
+    {"name": "Rita Turner", "type": "part_time", "performance_score": 3.15},
+    {"name": "Steve Phillips", "type": "part_time", "performance_score": 2.35},
+    {"name": "Terry Nelson", "type": "part_time", "performance_score": 4.15},
+    {"name": "Uma Ford", "type": "part_time", "performance_score": 3.3},
+    {"name": "Vince Carter", "type": "part_time", "performance_score": 2.95},
+    {"name": "Wendy Mitchell", "type": "part_time", "performance_score": 2.55}
+  ],
+  "contract": [
+    {"name": "Emily Roberts", "type": "contract", "performance_score": 3.15},
+    {"name": "Yolanda Garcia", "type": "contract", "performance_score": 2.6},
+    {"name": "Zachary Lee", "type": "contract", "performance_score": 2.9},
+    {"name": "Abigail Walker", "type": "contract", "performance_score": 2.75},
+    {"name": "Benjamin Robinson", "type": "contract", "performance_score": 1.95},
+    {"name": "Cynthia Rodriguez", "type": "contract", "performance_score": 3.05},
+    {"name": "Dexter Jordan", "type": "contract", "performance_score": 3.15},
+    {"name": "Erin King", "type": "contract", "performance_score": 2.55},
+    {"name": "Felix Wright", "type": "contract", "performance_score": 2.85},
+    {"name": "Gina Lopez", "type": "contract", "performance_score": 1.95},
+    {"name": "Harvey Perez", "type": "contract", "performance_score": 2.7}
+  ]
+}

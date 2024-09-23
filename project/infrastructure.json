@@ -1,0 +1,31 @@
+{
+    "type": "infrastructure",
+    "data": {
+      "requirement": {
+        "full_time": {
+          "lb_hours": 8
+        },
+        "part_time": {
+          "lb_hours": 4
+        },
+        "contract": {
+          "lb_hours": 4
+        }
+      },
+      "current": {
+        "full_time": {
+          "qty": 10,
+          "hour_per_day": 8
+        },
+        "part_time": {
+          "qty": 5,
+          "hour_per_day": 4
+        },
+        "contract": {
+          "qty": 5,
+          "hour_per_day": 4
+        }
+      }
+    }
+  }
+  
